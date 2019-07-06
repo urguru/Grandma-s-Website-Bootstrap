@@ -1,2 +1,2 @@
-# js-cart-setup
-ADD ITEMS TO CART JAVASCRIPT PROJECT
+Bootstrap project
+Building a bakery
